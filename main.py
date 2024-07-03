@@ -32,7 +32,6 @@ canvas = tk.Canvas(frame_lista_tarefas, bg="white")
 canvas.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
 
 
-
 janela.mainloop()
 
 
